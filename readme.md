@@ -1,0 +1,32 @@
+1. Zadania:
+
+1.1 zrób listę funkcyjną (główne)
+
+1.2 definiowanie listy, budowanie listy
+
+1.3 wyświetlenie list
+
+1.4 suma elementów
+
+1.5 suma dużej listy (100000 elementów)
+
+1.6 odwracanie listy (reverse)
+
+1.7 powtarzanie  n elementów
+
+1.8 generyczna suma
+
+1.9 max / best element
+
+1.10 konkatenacja
+
+1.11 filtrowanie
+
+1.12 qsort
+
+
+2. Gierka funkcyjna
+
+Najgorsze diablo jakie widzieliście :-) - nie ma nawet potworów
+
+    
